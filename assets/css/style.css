@@ -10,8 +10,20 @@ header {
 	height:75px;
 	text-align: center;
 }
+nav {	
+	background-color: orange;
+	height:75px;
+	width:400px;
+
+}
+
+
+h2{
+	color:#4aaaa5;
+}
 #myfooter {
 	background-color: #666666;
+	width:400px;
 
 }
 .container {
