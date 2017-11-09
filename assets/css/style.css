@@ -34,6 +34,9 @@ h2{
 .container{
 	background-color:lightgrey;
 	height:500px;
+	width:1037px;
+	float:left;	
+	margin-top: 20px
 
 }
 
@@ -41,10 +44,10 @@ h2{
 #my-aside {
 	background-color: #ffffff;
     width: 270px;
-    padding: 25px;
-    border:25px lightgrey;
-    margin-top: 25px;
-    margin-left:100px;
+    padding: 0px;
+    border:0px lightgrey;
+    margin-top: 50px;
+    margin-left:50px;
 	float:left;
 }
 #myfooter {
@@ -65,8 +68,9 @@ h2{
 	background-color:#ffffff;
 	width:650px;
 	height:450px;
-	margin-left: 100px;
+	margin-left: 0px;
 	float:left;
+	
 
 	
 }
