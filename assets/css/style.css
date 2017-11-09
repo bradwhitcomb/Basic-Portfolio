@@ -11,7 +11,7 @@ header {
 	width:350px;
 	height:75px;
 	text-align: center;
-	margin-left: 75px;
+	margin-left: 50px;
 	padding-top: 5px;
 	float:left;
 
@@ -27,6 +27,7 @@ nav {
 
 h2{
 	color:#4aaaa5;
+	margin-left: 45px;
 	clear:both;
 	overflow: auto;
 }
@@ -68,8 +69,9 @@ h2{
 	background-color:#ffffff;
 	width:650px;
 	height:450px;
-	margin-left: 0px;
+	margin-left: 50px;
 	float:left;
+	line-height: 240%
 	
 
 	
@@ -81,17 +83,18 @@ h2{
 }
 	
 }
-p.my-bio{
+#my-bio{
 	line-height:200%;
 	padding:0px;
 	clear:both;
 	overflow:auto;
+	color:red!important;
 	
 }
 
 #heading-box {
 	background: white;
-	height:75px;
+	height:78px;
 	border-bottom-color: lightgrey;
 
 }
